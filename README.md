@@ -10,12 +10,6 @@ The project focuses on secure networking, high availability, scalability, and cl
 
 ---
 
-# Architecture
-
-![Architecture](Architecture/aws-2-tier-architecture.png)
-
----
-
 # Services Used
 
 - Amazon VPC
